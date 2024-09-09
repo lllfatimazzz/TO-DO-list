@@ -65,30 +65,8 @@ A command-line interface (CLI) application that allows you to manage your daily 
 - *Remove Task*: Removes a task from the list based on its number.
 - *Exit*: Exits the application gracefully.
 
-## Prerequisites
 
-- Python 3.x must be installed on your machine. You can download it [here](https://www.python.org/downloads/).
-
-## Installation
-
-1. Clone the repository to your local machine:
-
-    bash
-    git clone https://github.com/your-username/simple-todo-list.git
     
-
-2. Navigate to the project directory:
-
-    bash
-    cd simple-todo-list
-    
-
-3. Run the Python script:
-
-    bash
-    python todo.py
-    
-
 ## Usage
 
 Upon running the script, you'll see the following menu:
